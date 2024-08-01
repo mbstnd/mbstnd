@@ -1,13 +1,9 @@
- ###  Hi There 👋
+ ###  Hi, I'm Mario 🌀
   <img src="https://media.giphy.com/media/YGx1N2aSDVU76/giphy.gif" width="50">  
 
-  ### I'm Mario 🌀
   I'd like to do project that has relation to anime. 👻
 
   📃 I'm currently learning:
-
-
-
 
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
