@@ -1,5 +1,5 @@
 # `Hi!👋🏼 I'm Mario Quevedo`
-### `💻 I'm Frontend Developer`
+### `💻 Frontend Developer`
 ```
 - 🚀 About 2 years ago I decided to become a developer
 - 🏫 Currently I'm learning more every day!
