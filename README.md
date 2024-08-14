@@ -8,7 +8,7 @@
 - 🆑 I'm from Chile
 ```
 
-## `🫠 Where to find me?`
+## `📍 Where to find me?`
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbstn/)
 &nbsp;&nbsp;
