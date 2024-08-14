@@ -62,8 +62,6 @@
 
 <br/>
 
-## `📊 Who cares the numbers!`
-
 ## `📊 Who cares about the numbers!`
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mbstnd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mbstnd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
