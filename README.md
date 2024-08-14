@@ -1,4 +1,4 @@
-# `Hi!✌️I'm Mario Quevedo`
+# `Hi!👋🏼 I'm Mario Quevedo`
 ### `💻 I'm Frontend Developer`
 ```
 - 🚀 About 2 years ago I decided to become a developer
@@ -18,15 +18,7 @@
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mbstnd)
 &nbsp;&nbsp;
-
 <br/>
-
-## `💪 Code Streak`
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
 <br/>
 
 ## `🛠️ Favorite Tools`
@@ -49,13 +41,13 @@
 <p>
   <a href="#"><img alt="Astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   &nbsp;&nbsp;
-  <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 </p>
@@ -102,6 +94,11 @@
 </p>
 
 
+## `💪 Code Streak`
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
 <br/>
 
 ## `📊 Who cares the numbers!`
