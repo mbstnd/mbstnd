@@ -1,4 +1,5 @@
-### `Hi!👋🏼 I'm Mario Quevedo`
+### `Hi!` 🌎
+### `I'm Mario Quevedo` :mage_man:
 ### `💻 Frontend Developer`
 ```
 - 🚀 About 2 years ago I decided to become a developer
