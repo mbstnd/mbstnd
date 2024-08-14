@@ -1,4 +1,4 @@
-# `Hi!👋🏼 I'm Mario Quevedo`
+### `Hi!👋🏼 I'm Mario Quevedo`
 ### `💻 Frontend Developer`
 ```
 - 🚀 About 2 years ago I decided to become a developer
