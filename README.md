@@ -19,7 +19,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mbstnd)
 &nbsp;&nbsp;
 <br/>
-<br/>
 
 ## `🛠️ Favorite Tools`
 ### 👨‍💻 Programming Languages
@@ -52,7 +51,6 @@
   <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 </p>
 
-
 ### 🫙 Databases and Cloud Hosting
 
 <p>
@@ -69,36 +67,10 @@
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-
-
-### `💻 Software and Tools`
-
-<p>
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-### `🏫 Learning Platform`
-
-<p>
-  <a href="#"><img alt="Freecodecamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Codely" src="https://img.shields.io/badge/Codely-3B2C7F?style=for-the-badge&logo=codely&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="DevTalles" src="https://img.shields.io/badge/DevTalles-4B2A85?style=for-the-badge&logo=devtalles&logoColor=white"></a>
-</p>
-
-
 ## `💪 Code Streak`
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
 <br/>
 
 ## `📊 Who cares the numbers!`
