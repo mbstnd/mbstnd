@@ -57,14 +57,18 @@
 
 ## `💪 Code Streak`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mbstnd&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
+
 
 <br/>
 
 ## `📊 Who cares the numbers!`
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Strocs's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Strocs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Strocs's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strocs&langs_count=8&layout=compact&theme=react&card_width=250&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
+## `📊 Who cares about the numbers!`
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mbstnd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mbstnd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mbstnd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mbstnd&langs_count=8&layout=compact&theme=react&card_width=250&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
+
 
 
 
