@@ -3,7 +3,7 @@
 ### `💻 Frontend Developer`
 ```
 - 🚀 About two years ago, I decided to become a developer
-- 🏫 Currently I'm learning Laravel
+- 🏫 Currently, I'm focused on learning Laravel.
 - 💖 My interests encompass technology, design, and music production.
 - 🎚️ Sound technician by profession.
 ```
