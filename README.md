@@ -4,9 +4,8 @@
 ```
 - 🚀 About 2 years ago I decided to become a developer
 - 🏫 Currently I'm learning more every day!
-- 💖 My interests include technology, design, music, and architecture
+- 💖 My interests include technology, design and music production
 - 🎚️ Sound Engineer by profession
-- 🆑 I'm from Chile
 ```
 
 ## `🛠️ Favorite Tools`
