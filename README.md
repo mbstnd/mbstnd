@@ -2,10 +2,10 @@
 ### `I'm Mario Quevedo` :mage_man:
 ### `💻 Frontend Developer`
 ```
-- 🚀 About 2 years ago I decided to become a developer
+- 🚀 About two years ago, I decided to become a developer
 - 🏫 Currently I'm learning Laravel
 - 💖 My interests include technology, design and music production
-- 🎚️ Sound Engineer by profession
+- 🎚️ Sound technician by profession.
 ```
 
 ## `🛠️ Favorite Tools`
