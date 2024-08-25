@@ -4,7 +4,7 @@
 ```
 - 🚀 About two years ago, I decided to become a developer
 - 🏫 Currently I'm learning Laravel
-- 💖 My interests include technology, design and music production
+- 💖 My interests encompass technology, design, and music production.
 - 🎚️ Sound technician by profession.
 ```
 
