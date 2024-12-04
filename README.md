@@ -1,12 +1,12 @@
 ### `Hello` 🌎
 ### `I'm Mario Quevedo` :mage_man:
 ### `💻 Frontend Developer`
-```
+
 🚀 Two years ago, I embarked on a journey to become a developer, driven by a passion for problem-solving and creativity.
 🏫 Currently, I'm honing my skills in Laravel, Astro, and Ionic to build modern, efficient, and user-friendly applications.
 💖 I'm deeply interested in technology, design, and music production, always seeking ways to combine these passions in innovative projects.
 🎚️ As a sound technician by profession, I bring an eye (and ear!) for detail, precision, and creativity to everything I do.
-```
+
 
 ## `🛠️ Favorite Tools`
 ### 👨‍💻 Programming Languages
