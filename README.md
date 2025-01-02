@@ -8,7 +8,6 @@
 
 ### `🛠️ Favorite Tools`
 ### 👨‍💻 Programming Languages
-
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
