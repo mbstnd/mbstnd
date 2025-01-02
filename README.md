@@ -1,5 +1,4 @@
-### Hello 🌎
-### I'm Mario Quevedo Frontend Developer :mage_man:
+### 🌎 Hello, I'm Mario Quevedo Frontend Developer :mage_man:
 
 - 🚀 Estudiante de Ingeniería en Informática en IPSS
 - 📘 Actualmente aprendiendo Springboot Java y Astro
