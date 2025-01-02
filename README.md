@@ -11,30 +11,20 @@
 
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-  &nbsp;&nbsp;
 </p>
 
 ### 🤖 Frameworks, Platforms and Libraries
 
 <p>
   <a href="#"><img alt="Astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 </p>
 
@@ -42,15 +32,10 @@
 
 <p>
   <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  &nbsp;&nbsp;
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
