@@ -3,7 +3,7 @@
 - 🚀 Estudiante de Ingeniería en Informática en **IPSS**
 - 📘 Actualmente aprendiendo **Springboot Java** y **Astro**
 - 🛠️ Experiencia en mantenimiento y gestión de sistemas **CMS**
-- 🎚️ Stage Manager y FOH de profesión
+- 🎚️ Stage Manager y **FOH** de profesión
 
 ### `🛠️ Favorite Tools`
 ### 👨‍💻 Programming Languages
